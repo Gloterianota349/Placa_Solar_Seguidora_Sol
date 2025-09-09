@@ -2,6 +2,8 @@
 
 Este projeto consiste em um **rastreador solar automatizado**, desenvolvido para otimizar a captação de energia solar. Utilizando sensores de luz (LDRs) e um microcontrolador Arduino, a placa ajusta sua posição ao longo do dia, mantendo o painel solar sempre voltado para a fonte de luz, maximizando assim sua eficiência energética.
 
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 * **Arduino IDE**: Ambiente de desenvolvimento para programação do microcontrolador.
